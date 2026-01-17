@@ -1,0 +1,1 @@
+# AI-market-trend-analysis-project-MASAI
