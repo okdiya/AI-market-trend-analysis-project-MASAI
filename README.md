@@ -206,4 +206,4 @@ Possible improvements include:
 
 * **Project Report (Google Docs):** [Project Report](https://docs.google.com/document/d/1mKNLJwgEvnkLJJUMH8ZzpnmEfKqe62xKctkVOYC4oAc/edit?usp=drive_link)
 * **Project Presentation (Google Slides):** [Project Slides](https://docs.google.com/document/d/1mKNLJwgEvnkLJJUMH8ZzpnmEfKqe62xKctkVOYC4oAc/edit?usp=drive_link)
-* **Demo Video:** 
+* **Demo Video:** [Zoom link](https://drive.google.com/file/d/1DjxXtPz3FkflVOOsy_cShPFDHyuMN5Bn/view?usp=drive_link)
